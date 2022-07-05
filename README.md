@@ -17,8 +17,40 @@ Age	Employment Type	GraduateOrNot	AnnualIncome	FamilyMembers	ChronicDiseases	Fre
 | Employment Type | Type Of employment |
 | GraduateOrNot | Education of people |
 | AnnualIncome | Yearly income  |
-| FamilyMembers | number of members in the family |
+| FamilyMembers | Number of members in the family |
 | ChronicDiseases | Person has diseases or not |
 | FrequentFlyer| person is frequently flying or not |
 | EverTravelledAbroad| Person has ever travelled abroad or not |
 | TravelInsurance | Person buy travel insurance or not |
+### Problem Statement:
+The task of insurance prediction is something that adds value to every insurance company. They use data from their database about everyone they have contacted to promote their insurance services and try to find the most potential people who can buy insurance.
+
+ Travel insurence prediction model implementation, and performance evaluation are conducted with pre-processing.
+
+###### The objective is to predict  the potential people who can buy insurance .
+### Implementation:
+##### Libraries: NumPy pandas sklearn Matplotlib Seaborn
+
+### Approach:
+ The aim is to create a model that helps the users to apply machine learning approach to predict the potential people who can buy insurance . Here, the models used are:
+
+- Logistic Regression
+- KNN
+- Decision Tree
+- Random Forest
+- XGBoost
+## Conclusion:
+##### The model was created to predict the potential people who can buy insurance
+
+
+### Comparison all Models:
+
+| Model | Accuracy Percentage | 
+| --- | --- |
+| Logistic Regression | 65% |
+| RandomForestClassifier | 80% |
+| DecisionTreeClassifier | 79% |
+| KNN | 82% |
+| XGB | 83% |
+####### XGBoost Classifier is best amoung the model with an accuracy score of 0.83
+
