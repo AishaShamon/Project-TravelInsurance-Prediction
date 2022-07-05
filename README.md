@@ -13,8 +13,12 @@ TravelInsurence.csv
 Age	Employment Type	GraduateOrNot	AnnualIncome	FamilyMembers	ChronicDiseases	FrequentFlyer	EverTravelledAbroad	TravelInsurance
 | Field | Description | 
 | --- | --- |
-| Logistic Regression | 65% |
-| RandomForestClassifier | 80% |
-| DecisionTreeClassifier | 79% |
-| KNN | 82% |
-| XGB | 83% |
+| Age | Age of the people |
+| Employment Type | Type Of employment |
+| GraduateOrNot | Education of people |
+| AnnualIncome | Yearly income  |
+| FamilyMembers | number of members in the family |
+| ChronicDiseases | Person has diseases or not |
+| FrequentFlyer| person is frequently flying or not |
+| EverTravelledAbroad| Person has ever travelled abroad or not |
+| TravelInsurance | Person buy travel insurance or not |
