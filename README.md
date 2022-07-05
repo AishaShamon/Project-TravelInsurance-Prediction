@@ -52,5 +52,7 @@ The task of insurance prediction is something that adds value to every insurance
 | DecisionTreeClassifier | 79% |
 | KNN | 82% |
 | XGB | 83% |
-####### XGBoost Classifier is best amoung the model with an accuracy score of 0.83
+
+
+###### XGBoost Classifier is best amoung the model with an accuracy score of 0.83
 
