@@ -10,7 +10,7 @@ In the section below, I will take you through the task of Insurance Prediction w
 #### Dataset :
 TravelInsurence.csv
 #### Dataset Details
-Age	Employment Type	GraduateOrNot	AnnualIncome	FamilyMembers	ChronicDiseases	FrequentFlyer	EverTravelledAbroad	TravelInsurance
+
 | Field | Description | 
 | --- | --- |
 | Age | Age of the people |
