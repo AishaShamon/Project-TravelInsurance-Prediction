@@ -27,7 +27,7 @@ The task of insurance prediction is something that adds value to every insurance
 
  Travel insurence prediction model implementation, and performance evaluation are conducted with pre-processing.
 
-###### The objective is to predict  the potential people who can buy insurance .
+####   Build a model to  perform the task of Insurance Prediction with Machine Learning using Python
 ### Implementation:
 ##### Libraries: - NumPy
 - pandas 
@@ -43,6 +43,8 @@ The task of insurance prediction is something that adds value to every insurance
 - Part 6 : Visualizing the data
 - Part 7 : Creating a model
 - Part 8 : Conclusion
+ ### Observation
+- This EDA will give some use useful insights to built a suitable model for Travelinsurance using Age, Employment Type, GraduateOrNot, AnnualIncome,FamilyMembers, ChronicDiseases, FrequentFlyer, EverTravelledAbroad.
 
 ### Approach:
  The aim is to create a model that helps the users to apply machine learning approach to predict the potential people who can buy insurance . Here, the models used are:
@@ -52,8 +54,8 @@ The task of insurance prediction is something that adds value to every insurance
 - Decision Tree
 - Random Forest
 - XGBoost
-## Conclusion:
-##### The model was created to predict the potential people who can buy insurance
+
+
 
 
 ### Comparison all Models:
@@ -65,6 +67,8 @@ The task of insurance prediction is something that adds value to every insurance
 | DecisionTreeClassifier | 79% |
 | KNN | 82% |
 | XGB | 83% |
+
+## Conclusion:
 
 
 ###### XGBoost Classifier is best amoung the model with an accuracy score of 0.83
