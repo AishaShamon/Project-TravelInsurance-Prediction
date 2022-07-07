@@ -71,5 +71,5 @@ The task of insurance prediction is something that adds value to every insurance
 ## Conclusion:
 
 
-###### XGBoost Classifier is best amoung the model with an accuracy score of 0.83
+###### XGBoost Classifier is best amoung the model with an accuracy score of 83%
 
