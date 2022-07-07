@@ -58,7 +58,7 @@ The task of insurance prediction is something that adds value to every insurance
 
 
 
-### Comparison all Models:
+### Comparison of all Models:
 
 | Model | Accuracy Percentage | 
 | --- | --- |
