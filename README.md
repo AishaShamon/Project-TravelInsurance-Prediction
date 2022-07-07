@@ -1,5 +1,5 @@
 # Project-TravelInsurance-Prediction
-####   Build a model to to perform the task of Insurance Prediction with Machine Learning using Python
+####   Build a model to  perform the task of Insurance Prediction with Machine Learning using Python
 ![download](https://user-images.githubusercontent.com/98824148/177312335-f453c738-e59d-4e5a-ab43-453c61ea2b80.jpg)
 #### Overview
 #### What is TravelInsurance Prediction?
@@ -29,7 +29,20 @@ The task of insurance prediction is something that adds value to every insurance
 
 ###### The objective is to predict  the potential people who can buy insurance .
 ### Implementation:
-##### Libraries: NumPy pandas sklearn Matplotlib Seaborn
+##### Libraries: - NumPy
+- pandas 
+- sklearn
+- Matplotlib 
+- Seaborn
+###  Structure:
+- Part 1 : Importing Libraries
+- Part 2 : Reading and Preparing the dataset
+- Part 3 : Exploring the data
+- Part 4 : Cleaning the data
+- Part 5 : Extracting the data
+- Part 6 : Visualizing the data
+- Part 7 : Creating a model
+- Part 8 : Conclusion
 
 ### Approach:
  The aim is to create a model that helps the users to apply machine learning approach to predict the potential people who can buy insurance . Here, the models used are:
