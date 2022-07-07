@@ -47,7 +47,7 @@ The task of insurance prediction is something that adds value to every insurance
 - This EDA will give some use useful insights to built a suitable model for Travelinsurance using Age, Employment Type, GraduateOrNot, AnnualIncome,FamilyMembers, ChronicDiseases, FrequentFlyer, EverTravelledAbroad.
 
 ### Applying some machine learning models:
- The aim is to create a model that helps the users to apply machine learning approach to predict the potential people who can buy insurance . Here, the models used are:
+ Here our aim is to create a model that helps the users to apply machine learning approach to predict the potential people who can buy insurance . Here, the models used are:
 
 - Logistic Regression
 - KNN
