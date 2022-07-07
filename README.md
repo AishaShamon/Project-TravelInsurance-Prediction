@@ -8,7 +8,7 @@ The task of insurance prediction is something that adds value to every insurance
 In the section below, I will take you through the task of Insurance Prediction with Machine Learning using Python. For the task of Insurance prediction with machine learning, I have collected a dataset from Kaggle about the previous customers of a travel insurance company. Here our task is to train a machine learning model to predict whether an individual will purchase the insurance policy from the company or not.
 
 #### Dataset :
-TravelInsurence.csv
+[Travel Insurance Prediction](https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data/code)
 #### Dataset Details
 
 | Field | Description | 
