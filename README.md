@@ -34,6 +34,7 @@ The task of insurance prediction is something that adds value to every insurance
 - sklearn
 - Matplotlib 
 - Seaborn
+- Sklearn
 ###  Structure:
 - Part 1 : Importing Libraries
 - Part 2 : Reading and Preparing the dataset
